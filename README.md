@@ -18,7 +18,7 @@ The goal of this project is to explore the application of Transformer models on 
    - **Description**: Applies fine-tuning to a pre-trained Google Vision Transformer on the Fashion MNIST dataset to leverage learned features from larger datasets.
 
 4. **Visual Prompt Tuning of Pre-trained Transformer**
-   - **Notebook**: [04_fashionmnist_vpt_transformer.ipynb](04_fashionmnist_vpt_transformer.ipynb)
+   - **Notebook**: in progress
    - **Description**: Explores the technique of Visual Prompt Tuning to adapt a pre-trained Transformer model to our specific task without extensive retraining.
 
 
