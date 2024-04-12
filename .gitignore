@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# data
+data/
+
+# models
+models/
+vit-fashion-mnist/
+
 # Distribution / packaging
 .Python
 build/
