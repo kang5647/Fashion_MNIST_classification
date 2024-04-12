@@ -3,6 +3,13 @@
 ## Objective
 The goal of this project is to explore the application of Transformer models on the Fashion MNIST dataset, a collection of 28x28 grayscale images of 10 fashion categories. We start by establishing a baseline using a Convolutional Neural Network (CNN) and then progressively experiment with more sophisticated Transformer-based models. We aim to enhance the model's performance first through fine-tuning a pre-trained Google Vision Transformer (ViT) and then employing a novel fine-tuning technique known as visual prompting.
 
+## Fashion MNIST 
+![image](https://github.com/kang5647/Fashion_MNIST_classification/assets/76279908/2e5a8dd3-f36a-43d5-93b0-c5edc2af720d)
+
+## Prediction outcome
+![image](https://github.com/kang5647/Fashion_MNIST_classification/assets/76279908/00dcd3cd-3f9c-42f6-a654-2f45f607c682)
+
+
 ## Project Structure
 
 1. **CNN Baseline Model**
